@@ -1,21 +1,18 @@
-## Welcome to Atlas Winds
+## Welcome to TK Schedule
 
-Atlas Winds is designed for Atlas Air pilots to easily calculate the landing wind additive in accordance with company guidance. [Download Atlas Winds](https://apps.apple.com/us/app/atlas-winds/id1458439441) if you hate public math too.
+TK Schedule is designed so you can easily record your CCS Instructor Schedule and sync all of your events to your calendar. No more hand jamming your sim schedule into your calendar or taking screenshots of CCS. [Download TK Schedule](https://apps.apple.com/us/app/atlas-winds/id1458439441) today!
 
 ### Features
-- Calculate approach wind additives for 737, 747, 767 and 777
-- Input the wind in knots or meters per second
-
-### Data Entry Methods
-- If online, select the airport, download current METAR and TAF, select the wind, and finally select the landing runway
-- Manually enter the runway heading, wind direction, wind speed, and wind gust
+- With one button tap, download and record your monthly schedule.
+- With one more button tap, sync your monthly schedule with your calendar.
+- Get reminders to save a copy of your schedule the moment it's published.
 
 ### About the Developer
 
-I was briefly a 747 First Officer at Altas and wrote this iOS app as a hobby. Send feedback to me [here](mailto:brenner.scott.980@icloud.com).
+I'm a new 737 PI and wrote this iOS app to help me stay more organized. Send feedback to me [here](mailto:brenner.scott.980@icloud.com).
 
 ### Legal Stuff
 
-[Privacy Policy](https://s-brenner.github.io/atlas-winds/privacy)
+[Privacy Policy](https://s-brenner.github.io/tk-schedule/privacy)
 
-[Terms of Service](https://s-brenner.github.io/atlas-winds/terms)
+[Terms of Service](https://s-brenner.github.io/tk-schedule/terms)

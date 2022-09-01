@@ -11,7 +11,7 @@ The following statement discloses the guidelines Scott Brenner has established f
 
 ## Aggregated Statistics
 
-I may collect statistics about the behavior of visitors to my website and users of the app. For example, I may aggregate anonymous usage data to publish a report on trends in the usage of Atlas Winds.
+I may collect statistics about the behavior of visitors to my website and users of the app. For example, I may aggregate anonymous usage data to publish a report on trends in the usage of TK Schedule.
 
 ## Website Visitors
 

@@ -19,13 +19,13 @@ Like most website operators, Scott Brenner collects non-personally-identifying i
 
 ## Email Communications
 
-If you choose to stop receiving emails regarding Atlas Winds, please follow the unsubscribe instructions within each email communication or send an email to [brenner.scott.980@icloud.com](mailto:brenner.scott.980@icloud.com). I will not provide or share any mailing lists or other information about you to another company or service for promotional purposes.
+If you choose to stop receiving emails regarding TK Schedule, please follow the unsubscribe instructions within each email communication or send an email to [brenner.scott.980@icloud.com](mailto:brenner.scott.980@icloud.com). I will not provide or share any mailing lists or other information about you to another company or service for promotional purposes.
 
 Any service-related emails (help requests, feedback, etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested.
 
 ## Data Security
 
-Atlas Winds uses industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of personal and location information during transmissions to our servers.
+TK Schedule uses industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of personal and location information during transmissions to our servers.
 
 I restrict access to data to my employees, contractors and agents who need to know that information in order to operate, develop or improve the app. These individuals are bound by confidentiality obligations and may be subject to discipline if they fail to meet those obligations.
 
@@ -51,4 +51,4 @@ If Scott Brenner makes changes to any terms or conditions of this privacy policy
 
 If you have any additional questions or concerns about this policy or our information practices, please feel free to contact me at any time at [brenner.scott.980@icloud.com](mailto:brenner.scott.980@icloud.com).
 
-Last updated November 29, 2020
+Last updated August 31, 2022

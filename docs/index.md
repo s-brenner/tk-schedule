@@ -1,6 +1,6 @@
 ## Welcome to TK Schedule
 
-TK Schedule is designed so you can easily record your CCS Instructor Schedule and sync all of your events to your calendar. No more hand jamming your sim schedule into your calendar or taking screenshots of CCS. [Download TK Schedule](https://apps.apple.com/us/app/atlas-winds/id1642436074) today!
+TK Schedule is designed so you can easily record your CCS Instructor Schedule and sync all of your events to your calendar. No more hand jamming your sim schedule into your calendar or taking screenshots of CCS. [Download TK Schedule](https://apps.apple.com/us/app/id1642436074) today!
 
 ### Features
 - With one button tap, download and record your monthly schedule.

@@ -4,6 +4,6 @@
 Explanation
 
 ## How do I share my iCloud calendar?
-https://support.apple.com/guide/iphone/share-icloud-calendars-iph7613c4fb/ios
+[https://support.apple.com/guide/iphone/share-icloud-calendars-iph7613c4fb/ios](x)
 Turn off Allow Editing
 Instruct the calendar recipient to turn off Show Changes
